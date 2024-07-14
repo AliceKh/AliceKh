@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6693986abec3a8b148e6505d?variant=dark)](https://roadmap.sh/u/alicekh) ![LeetCode Stats](https://leetcard.jacoblin.cool/alicekh?theme=dark&font=Noto%20Sans%20Ol%20Chiki&ext=activity)
+[![roadmap.sh](https://roadmap.sh/card/tall/6693986abec3a8b148e6505d?variant=dark)](https://roadmap.sh/u/alicekh) [![LeetCode Stats](https://leetcard.jacoblin.cool/alicekh?theme=dark&font=Noto%20Sans%20Ol%20Chiki&ext=activity)](https://leetcode.com/u/AliceKh/)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKh&size_weight=0.5&count_weight=0.5&layout=compact)
 
